@@ -12,7 +12,7 @@ const mainData = () => {
 
         array.forEach((item) => {
             console.log(item)
-            wrapper.insertAdjacentHTML('afterbegin', `
+            wrapper.insertAdjacentHTML('beforeend', `
             <div class="product__sidebar__view__item set-bg mix" 
                 data-setbg="${item.image}">
                 <div class="ep">${item.rating} / 10</div>
