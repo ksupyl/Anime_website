@@ -2,30 +2,30 @@
    "anime": [
       {
          "id": 0,
-         "image": "http://baza4.animevost.tv/uploads/posts/2022-03/1647186611_15.jpg",
-         "title": "Доктор Стоун",
+         "image": "https://nyaa.shikimori.one/uploads/poster/animes/38691/main_2x-72ed50e637f237acc76cddbf29a350fc.webp",
+         "title": "Dr. Stone",
          "original-title": "Dr. Stone",
-         "ganre": "Приключения",
+         "genre": "Adventure",
          "tags": [
-            "Приключения",
-            "Сёнен",
-            "Фантастика"
+            "Adventure",
+            "Shounen",
+            "Fiction"
          ],
          "date": 2019,
          "views": 239894,
          "rating": 9.1,
-         "description": "Совершенно ничего не предвещало беды. Люди уже много лет жили в мире и согласии, войны и гонки вооружения прекратились, но случилось непредвиденное. Что-то более опасное, чем столкновение людей с оружием... Внезапная вспышка безумно яркого света на несколько минут повисла над планетой. Этот поток света не пощадил никого. Всё человечество погибло, поскольку радиация, исходившая от этой вспышки, превратила всех людей в застывшие каменные статуи. С этого ужасного события прошло несколько долгих тысячелетий. И от вечного сна оправился парень-подросток Тайджу Оки. Но вопреки его ожиданиям он осознал, что вокруг него нет ни одного живого человека. Хотя парнишка решил не отчаиваться и отправился на поиски пропитания. Спустя несколько дней бесцельных прогулок по городу, парень встретил и других людей, которые смогли очнуться от векового сна. В частности, Тайджу вновь увиделся и со своим бывшим одноклассником – Сэнку Ишигами. Этот молодой человек не только не расстроился, что все вокруг являются лишь безжизненными статуями, но и решил перевернуть этот неприятный момент в свою пользу! Подросток помешан на науке и уже несколько месяцев пытается придумать как вывести из этого ужасного сонного состояния других людей! И у Сэнку уже есть первые успехи в своих исследованиях и экспериментах."
+         "description": "Nothing at all foreshadowed trouble. People had been living in peace and harmony for many years, wars and arms races ceased, but the unexpected happened. Something more dangerous than a clash of men with weapons... A sudden flash of insanely bright light hung over the planet for a few minutes. This stream of light has spared no one. All of humanity perished, because the radiation emanating from this outbreak turned all people into frozen stone statues. It was a long time since that terrible event. And from eternal sleep, the boy-teenager Tyju Oki recovered. But he realized, against his expectations, that there was no one around him. Though the boy decided not to despair and went to search for food. After a few days of aimless walks around the city, the guy met other people who were able to wake up from ages of sleep. In particular, Tyju saw again with his former classmate - Senku Ishigami. This young man not only did not get upset that everyone around him is just a lifeless statue, but he also decided to turn this unpleasant moment in his favor! The teenager is obsessed with science and has been trying to figure out how to get other people out of this terrible drowsiness for months! And Senku has already made some initial progress in his research and experiments."
       },
       {
          "id": 1,
          "image": "http://baza4.animevost.tv/uploads/posts/2022-07/1657481286_14.jpg",
          "title": "Доктор Стоун: Рюсуй",
          "original-title": "Dr. Stone: Ryuusui",
-         "ganre": "Приключения",
+         "genre": "Adventure",
          "tags": [
-            "Приключения",
-            "Сёнен",
-            "Фантастика"
+            "Adventure",
+            "Shounen",
+            "Fiction"
          ],
          "date": 2022,
          "views": 7607,
@@ -37,10 +37,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2018-11/05528576.jpg",
          "title": "О моем перерождении в слизь",
          "original-title": "Tensei shitara Slime Datta Ken",
-         "ganre": "Сёнен",
+         "genre": "Shounen",
          "tags": [
-            "Сёнен",
-            "Фэнтези"
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2018,
          "views": 127673,
@@ -52,11 +52,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-12/80206783.jpg",
          "title": "Дороро",
          "original-title": "Dororo",
-         "ganre": "История",
+         "genre": "History",
          "tags": [
-            "История",
-            "Приключения",
-            "Сёнен"
+            "History",
+            "Adventure",
+            "Shounen"
          ],
          "date": 2019,
          "views": 37318,
@@ -68,11 +68,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-01/17229063.jpg",
          "title": "Обещанный Неверленд",
          "original-title": "Yakusoku no Neverland",
-         "ganre": "Детектив",
+         "genre": "Detective story",
          "tags": [
-            "Детектив",
-            "Сёнен",
-            "Фантастика"
+            "Detective story",
+            "Shounen",
+            "Fiction"
          ],
          "date": 2019,
          "views": 31507,
@@ -84,10 +84,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2017-10/71014026.jpg",
          "title": "Черный клевер",
          "original-title": "Black Clover",
-         "ganre": "Сёнен",
+         "genre": "Shounen",
          "tags": [
-            "Сёнен",
-            "Фэнтези"
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2017,
          "views": 123225,
@@ -99,10 +99,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2021-09/1632259653_14.jpg",
          "title": "Невеста чародея",
          "original-title": "Mahoutsukai no Yome",
-         "ganre": "Фэнтези",
+         "genre": "Fantasy",
          "tags": [
-            "Сёнен",
-            "Фэнтези"
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2017,
          "views": 35236,
@@ -114,9 +114,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2017-02/62689884.jpg",
          "title": "Наруто ",
          "original-title": "Naruto",
-         "ganre": "Сёнен",
+         "genre": "Shounen",
          "tags": [
-            "Сёнен",
+            "Shounen",
             "Комедии"
          ],
          "date": 2002,
@@ -129,10 +129,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-06/29975560.jpg",
          "title": "Пламенная бригада пожарных",
          "original-title": "Enen no Shouboutai",
-         "ganre": "Сёнен",
+         "genre": "Shounen",
          "tags": [
-            "Сёнен",
-            "Фантастика"
+            "Shounen",
+            "Fiction"
          ],
          "date": 2019,
          "views": 131952,
@@ -144,10 +144,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-12/82185511.jpg",
          "title": "Бездомный бог",
          "original-title": "Noragami",
-         "ganre": "Приключения",
+         "genre": "Adventure",
          "tags": [
-            "Приключения",
-            "Сёнен"
+            "Adventure",
+            "Shounen"
          ],
          "date": 2014,
          "views": 27486,
@@ -159,10 +159,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-12/00542380.jpg",
          "title": "Игра Дарвина",
          "original-title": "Darwin's Game",
-         "ganre": "Детектив",
+         "genre": "Detective story",
          "tags": [
-            "Детектив",
-            "Сёнен"
+            "Detective story",
+            "Shounen"
          ],
          "date": 2020,
          "views": 20871,
@@ -174,11 +174,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-01/21771607.jpg",
          "title": "Темный дворецкий",
          "original-title": "Kuroshitsuji",
-         "ganre": "История",
+         "genre": "History",
          "tags": [
-            "История",
-            "Сёнен",
-            "Фэнтези"
+            "History",
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2008,
          "views": 34300,
@@ -190,10 +190,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-01/95108361.jpg",
          "title": "Глейпнир",
          "original-title": "Gleipnir",
-         "ganre": "Детектив",
+         "genre": "Detective story",
          "tags": [
-            "Детектив",
-            "Сёнен"
+            "Detective story",
+            "Shounen"
          ],
          "date": 2020,
          "views": 22902,
@@ -205,11 +205,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-02/11356588.jpg",
          "title": "Стальной алхимик",
          "original-title": "Fullmetal Alchemist",
-         "ganre": "Приключения",
+         "genre": "Adventure",
          "tags": [
-            "Приключения",
-            "Сёнен",
-            "Фэнтези"
+            "Adventure",
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2003,
          "views": 37345,
@@ -221,10 +221,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2017-04/99225371.jpg",
          "title": "Атака титанов",
          "original-title": "Shingeki no Kyojin",
-         "ganre": "Сёнен",
+         "genre": "Shounen",
          "tags": [
-            "Сёнен",
-            "Фэнтези"
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2013,
          "views": 42117,
@@ -236,11 +236,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-08/27044507.jpg",
          "title": "Ван Пис",
          "original-title": "One Piece",
-         "ganre": "Приключения",
+         "genre": "Adventure",
          "tags": [
-            "Приключения",
-            "Фэнтези",
-            "Сёнен"
+            "Adventure",
+            "Fantasy",
+            "Shounen"
          ],
          "date": 1999,
          "views": 28038,
@@ -252,10 +252,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-08/96509012.jpg",
          "title": "Тетрадь смерти",
          "original-title": "Death Note",
-         "ganre": "Детектив",
+         "genre": "Detective story",
          "tags": [
-            "Детектив",
-            "Фантастика"
+            "Detective story",
+            "Fiction"
          ],
          "date": 2006,
          "views": 39162,
@@ -267,11 +267,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-04/21221841.jpg",
          "title": "Башня Бога",
          "original-title": "Kami no Tou",
-         "ganre": "Детектив",
+         "genre": "Detective story",
          "tags": [
-            "Детектив",
-            "Приключения",
-            "Фэнтези"
+            "Detective story",
+            "Adventure",
+            "Fantasy"
          ],
          "date": 2020,
          "views": 67070,
@@ -283,11 +283,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2022-02/1644932639_7-7.jpg",
          "title": "Клинок, рассекающий демонов",
          "original-title": "Kimetsu no Yaiba",
-         "ganre": "История",
+         "genre": "History",
          "tags": [
-            "История",
-            "Сёнен",
-            "Фэнтези"
+            "History",
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2019,
          "views": 276909,
@@ -299,11 +299,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-06/33537178.jpg",
          "title": "Сага о Винланде",
          "original-title": "Vinland Saga",
-         "ganre": "История",
+         "genre": "History",
          "tags": [
-            "История",
-            "Сёнен",
-            "Фэнтези"
+            "History",
+            "Shounen",
+            "Fantasy"
          ],
          "date": 2019,
          "views": 142123,
@@ -315,9 +315,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-04/48614391.jpg",
          "title": "Ветер крепчает",
          "original-title": "Kaze Tachinu",
-         "ganre": "История",
+         "genre": "History",
          "tags": [
-            "История"
+            "History"
          ],
          "date": 2013,
          "views": 11573,
@@ -329,10 +329,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-12/03091483.jpg",
          "title": "Восхождение героя щита",
          "original-title": "Tate no Yuusha no Nariagari",
-         "ganre": "Фэнтези",
+         "genre": "Fantasy",
          "tags": [
-            "Фэнтези",
-            "Приключения"
+            "Fantasy",
+            "Adventure"
          ],
          "date": 2019,
          "views": 432196,
@@ -344,9 +344,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2018-10/19648492.jpg",
          "title": "Убийца гоблинов",
          "original-title": "Goblin Slayer",
-         "ganre": "Фэнтези",
+         "genre": "Fantasy",
          "tags": [
-            "Фэнтези"
+            "Fantasy"
          ],
          "date": 2018,
          "views": 113853,
@@ -358,10 +358,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2018-10/06545807.jpg",
          "title": "Арифурэта: Сильнейший ремесленник в мире",
          "original-title": "Arifureta Shokugyou de Sekai Saikyou",
-         "ganre": "Фэнтези",
+         "genre": "Fantasy",
          "tags": [
-            "Фэнтези",
-            "Приключения"
+            "Fantasy",
+            "Adventure"
          ],
          "date": 2019,
          "views": 596407,
@@ -373,10 +373,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-12/1609264123_15.jpg",
          "title": "Реинкарнация безработного",
          "original-title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-         "ganre": "Фэнтези",
+         "genre": "Fantasy",
          "tags": [
-            "Фэнтези",
-            "Приключения"
+            "Fantasy",
+            "Adventure"
          ],
          "date": 2021,
          "views": 121732,
@@ -388,9 +388,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-12/07114792.jpg",
          "title": "Паразит",
          "original-title": "Kiseijuu: Sei no Kakuritsu",
-         "ganre": "Фантастика",
+         "genre": "Fiction",
          "tags": [
-            "Фантастика"
+            "Fiction"
          ],
          "date": 2014,
          "views": 40523,
@@ -402,11 +402,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-03/83465069.jpg",
          "title": "Созданный в Бездне",
          "original-title": "Made in Abyss",
-         "ganre": "Фантастика",
+         "genre": "Fiction",
          "tags": [
-            "Фантастика",
-            "Приключения",
-            "Фэнтези"
+            "Fiction",
+            "Adventure",
+            "Fantasy"
          ],
          "date": 2017,
          "views": 25094,
@@ -418,10 +418,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-06/18365620.jpg",
          "title": "Мастерство копа",
          "original-title": "Cop Craft",
-         "ganre": "Фантастика",
+         "genre": "Fiction",
          "tags": [
-            "Фантастика",
-            "Фэнтези"
+            "Fiction",
+            "Fantasy"
          ],
          "date": 2019,
          "views": 21513,
@@ -433,9 +433,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-12/65448485.jpg",
          "title": "Смертельный укус",
          "original-title": "Killing Bites",
-         "ganre": "Фантастика",
+         "genre": "Fiction",
          "tags": [
-            "Фантастика"
+            "Fiction"
          ],
          "date": 2018,
          "views": 18548,
@@ -447,11 +447,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-04/98666821.jpg",
          "title": "Небесный замок Лапута",
          "original-title": "Tenkuu no Shiro Laputa",
-         "ganre": "Фантастика",
+         "genre": "Fiction",
          "tags": [
-            "Фантастика",
-            "Фэнтези",
-            "Приключения"
+            "Fiction",
+            "Fantasy",
+            "Adventure"
          ],
          "date": 1986,
          "views": 11723,
@@ -463,9 +463,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-10/89887153.jpg",
          "title": "Аватар короля: Вершина славы",
          "original-title": "Quanzhi Gaoshou zhi Dianfeng Rongyao",
-         "ganre": "Приключения",
+         "genre": "Adventure",
          "tags": [
-            "Приключения"
+            "Adventure"
          ],
          "date": 2019,
          "views": 171544,
@@ -477,11 +477,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-01/21771607.jpg",
          "title": "Темный дворецкий",
          "original-title": "Kuroshitsuji",
-         "ganre": "Сёнен",
+         "genre": "Shounen",
          "tags": [
-            "Сёнен",
-            "Фэнтези",
-            "История"
+            "Shounen",
+            "Fantasy",
+            "History"
          ],
          "date": 2008,
          "views": 34347,
@@ -493,11 +493,11 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-09/27297866.jpg",
          "title": "Бродяга Кэнсин",
          "original-title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
-         "ganre": "История",
+         "genre": "History",
          "tags": [
-            "История",
+            "History",
             "Приключения",
-            "Сёнен"
+            "Shounen"
          ],
          "date": 1996,
          "views": 8435,
@@ -509,10 +509,10 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2020-06/79391961.jpg",
          "title": "Токийский гуль",
          "original-title": "Tokyo Ghoul",
-         "ganre": "Детектив",
+         "genre": "Detective story",
          "tags": [
-            "Детектив",
-            "Фантастика"
+            "Detective story",
+            "Fiction"
          ],
          "date": 2014,
          "views": 33510,
@@ -524,9 +524,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-06/83152870.jpg",
          "title": "Ад Данте",
          "original-title": "Dante's Inferno",
-         "ganre": "Фэнтези",
+         "genre": "Fantasy",
          "tags": [
-            "Фэнтези"
+            "Fantasy"
          ],
          "date": 2010,
          "views": 97008,
@@ -538,9 +538,9 @@
          "image": "http://baza4.animevost.tv/uploads/posts/2019-08/24567490.jpg",
          "title": "Жизнь без оружия",
          "original-title": "No Guns Life",
-         "ganre": "Фантастика",
+         "genre": "Fiction",
          "tags": [
-            "Фантастика"
+            "Fiction"
          ],
          "date": 2019,
          "views": 60965,
