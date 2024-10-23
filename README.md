@@ -1,4 +1,4 @@
-# Anime_website
+# Anime_website [![wakatime](https://wakatime.com/badge/user/db86e232-e352-46cf-b47c-ebfa554f4979/project/8cd1d5c7-d211-4de9-bd9a-251db8f2c60c.svg)](https://wakatime.com/badge/user/db86e232-e352-46cf-b47c-ebfa554f4979/project/8cd1d5c7-d211-4de9-bd9a-251db8f2c60c)
 
 ## **Demo:** [https://ksupyl.github.io/Anime_website/](https://ksupyl.github.io/Anime_website/)
 ## :books: Languages, Frameworks and Libraries:
