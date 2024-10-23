@@ -1,4 +1,4 @@
-const mainData = () => {
+const categoriesData = () => {
 
     const renderGenreList = genres => {
         const dropdownBlock = document.querySelector('.header__menu .dropdown')
@@ -16,7 +16,7 @@ const mainData = () => {
         genres.forEach(genre => {
             const productBlock = document.createElement('div');
             const listBlock = document.createElement('div');
-            const list = array.filter(item => item.genre == genre);
+            const list = array.filter(item => item.tags.includes(genre));
 
             productBlock.classList.add('mb-4')
             listBlock.classList.add('row');
@@ -96,15 +96,22 @@ const mainData = () => {
         .then(response => response.json())
         .then(data => {
             const genres = new Set();
+            const genreParams = new URLSearchParams(window.location.search).get("genre");
 
             data.anime.forEach((item) => {
                 genres.add(item.genre);
             });
             
             renderTopAnime(data.anime.sort((a, b) => b.views - a.views).slice(0, 5));
-            renderAnimeList(data.anime, genres);
+
+            if (genreParams) {
+                renderAnimeList(data.anime, [genreParams]);
+            } else {
+                renderAnimeList(data.anime, genres);
+            };
+
             renderGenreList(genres);
         });
 };
 
-mainData();
+categoriesData();
