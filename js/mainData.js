@@ -56,7 +56,7 @@ const mainData = () => {
                             </div>
                             <div class="product__item__text">
                                 ${tagsBlock.outerHTML}
-                                <h5><a href="/anime-details.html?itemId=${item.id}">${item.title}</a></h5>
+                                <h5><a href="./anime-details.html?itemId=${item.id}">${item.title}</a></h5>
                             </div>
                         </div>
                     </div>
@@ -86,7 +86,7 @@ const mainData = () => {
                 data-setbg="${item.image}">
                 <div class="ep">${item.rating} / 10</div>
                 <div class="view"><i class="fa fa-eye"></i> ${item.views}</div>
-                <h5><a href="/anime-details.html">${item.title}</a></h5>
+                <h5><a href="./anime-details.html">${item.title}</a></h5>
             </div>
         `);
 
