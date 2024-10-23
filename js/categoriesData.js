@@ -46,12 +46,13 @@ const categoriesData = () => {
                     `);
                 });
 
-                listBlock.insertAdjacentHTML(`beforeend`, `
+                listBlock.insertAdjacentHTML('beforeend', `
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="product__item">
-                            <div class="product__item__pic set-bg" data-setbg="${item.image}">
+                            <div class="product__item__pic set-bg" 
+                                data-setbg="${item.image}">
                                 <div class="ep">${item.rating} / 10</div>
-                                <div class="view"><i class="fa fa-eye"></i>${item.views}</div>
+                                <div class="view"><i class="fa fa-eye"></i> ${item.views}</div>
                             </div>
                             <div class="product__item__text">
                                 ${tagsBlock.outerHTML}
