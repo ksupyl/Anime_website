@@ -1,4 +1,5 @@
 const mainData = () => {
+    const preloader = document.querySelector('.preloder');
 
     const renderGenreList = genres => {
         const dropdownBlock = document.querySelector('.header__menu .dropdown')
@@ -67,7 +68,11 @@ const mainData = () => {
             wrapper.querySelectorAll(".set-bg").forEach(elem => {
                 elem.style.backgroundImage = `url(${elem.dataset.setbg})`;
             });
-        })
+        });
+
+        setTimeout(() => {
+            preloader.classList.remove('active');
+        }, 500);
     }
 
     const renderTopAnime = array => {
