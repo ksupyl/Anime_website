@@ -31,7 +31,7 @@ const mainData = () => {
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="btn__all">
-                            <a href="/categories.html?genre=${genre}" class="primary-btn">View All <span class="arrow_right"></span></a>
+                            <a href="./categories.html?genre=${genre}" class="primary-btn">View All <span class="arrow_right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -106,7 +106,7 @@ const mainData = () => {
             data.anime.forEach((item) => {
                 genres.add(item.genre);
             });
-            
+
             renderTopAnime(data.anime.sort((a, b) => b.views - a.views).slice(0, 5));
             renderAnimeList(data.anime, genres);
             renderGenreList(genres);
